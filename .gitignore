@@ -28,3 +28,5 @@ jax.iml
 /include/
 /lib/
 /share/
+
+build/compile_commands.json
